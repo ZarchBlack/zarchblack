@@ -1,5 +1,8 @@
 <p align="center">
-    <img width="420" src="https://raw.githubusercontent.com/ZarchBlack/zarchblack/main/zheader.svg" alt="ZarchBlack Logo">
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200">
+        
+  <defs><img width="900" height="200" alt="zheader" src="https://github.com/user-attachments/assets/230303bf-5a3e-4aa8-a60d-03341f0e0b70" />
+alt="ZarchBlack Logo">
 </p>
 
 <h1 align="center">⚡ ZarchBlack Linux Distribution ⚡</h1>
@@ -9,8 +12,7 @@
 </p>
 
 <p align="center">
-    <img width="1920" height="1080" alt="Screenshot9" src="https://github.com/user-attachments/assets/f371ca2f-fa9d-486e-9c68-2b0fdf2d7c0c" />
-
+    <img width="1920" height="1080" alt="Screenshot9" src="https://github.com/user-attachments/assets/82667ab3-c1d0-4695-ab70-588a9bb58831" />
 </p>
 
 ---
@@ -88,8 +90,7 @@ ZarchBlack includes three powerful core utilities designed specifically for the 
 Advanced security and penetration testing suite for ethical hackers and security researchers.
 
 <p align="center">
-    <img width="1920" height="1080" alt="Screenshot3" src="https://github.com/user-attachments/assets/59225aec-fb92-4217-ad86-c9519e1fb860" />
-
+    <img width="1920" height="1080" alt="Screenshot3" src="https://github.com/user-attachments/assets/6d0b2040-5bd5-4de3-9f51-4bd5bf73dd13" />
 </p>
 
 **Key Features:**
@@ -120,9 +121,8 @@ zarch-hacking
 Comprehensive system maintenance and optimization utility for keeping your system in peak condition.
 
 <p align="center">
-   <img width="1920" height="1080" alt="Screenshot1" src="https://github.com/user-attachments/assets/e16071f1-1b72-43db-a139-0fccbe0352e3" />
-<img width="1920" height="1080" alt="Screenshot8" src="https://github.com/user-attachments/assets/812bfc42-fea1-49f9-8342-11af8bf0b83b" />
-
+   <img width="1920" height="1080" alt="Screenshot1" src="https://github.com/user-attachments/assets/81ced89e-eab7-4d27-9444-c48e12feee47" />
+<img width="1920" height="1080" alt="Screenshot8" src="https://github.com/user-attachments/assets/de63a814-8c87-4258-b9fa-aab239b51c2b" />
 </p>
 
 **Key Features:**
@@ -159,10 +159,12 @@ zarch-guard
 Intelligent package management system for seamless software installation and maintenance.
 
 <p align="center">
-    <img width="1920" height="1080" alt="Screenshot4" src="https://github.com/user-attachments/assets/efa46adf-854a-40a7-ac41-bd7fb7e6957b" />
-<img width="1920" height="1080" alt="Screenshot5" src="https://github.com/user-attachments/assets/b6277a64-064b-47aa-afda-5bdad6474a7e" />  
-<img width="1920" height="1080" alt="Screenshot6" src="https://github.com/user-attachments/assets/3b6f3423-32e7-409a-87ef-9d3f79601fda" />    
-<img width="1920" height="1080" alt="Screenshot7" src="https://github.com/user-attachments/assets/f3212d24-1533-48de-828d-ab43c84b34c0" />    
+<img width="1920" height="1080" alt="Screenshot4" src="https://github.com/user-attachments/assets/7781b798-d107-4315-b33e-6c865acbafae" />
+<img width="1920" height="1080" alt="Screenshot5" src="https://github.com/user-attachments/assets/4b6114e9-4227-4450-a29e-a5f46a6956dc" />
+<img width="1920" height="1080" alt="Screenshot6" src="https://github.com/user-attachments/assets/11a3671a-8b68-426d-88bd-a6e0ac647586" />
+ <img width="1920" height="1080" alt="Screenshot7" src="https://github.com/user-attachments/assets/c592b77f-5408-407e-a4f0-381cd29a8f0c" />
+   
+   
 </p>
 
 **Key Features:**
@@ -266,36 +268,35 @@ zpackagemanager search [keyword]
 ### Desktop Environment
 
 <p align="center">
-    <img width="1920" height="1080" alt="Screenshot2" src="https://github.com/user-attachments/assets/15f7cb34-18f1-49b3-b082-6ba3570345d5" />
+    <img width="1920" height="1080" alt="Screenshot2" src="https://github.com/user-attachments/assets/03d16a62-94b2-42c2-8f96-850a88145254" />
 
 </p>
 
 <p align="center">
-    <img width="1920" height="1080" alt="Screenshot12" src="https://github.com/user-attachments/assets/e4af5654-4fca-42f7-b6e8-1ed615efb2ee" />
+    <img width="1920" height="1080" alt="Screenshot12" src="https://github.com/user-attachments/assets/a434fcc6-ff64-47cb-b7df-84dce0c44002" />
 
 </p>
 
 ### System Tools & Interfaces
 
 <p align="center">
-    <img width="1920" height="1080" alt="Screenshot11" src="https://github.com/user-attachments/assets/e0111109-d125-4a91-83c9-fcad4427a678" />
+    <img width="1920" height="1080" alt="Screenshot11" src="https://github.com/user-attachments/assets/13e770a9-f0d6-47f0-989a-445a62fcc55b" />
 
 </p>
 
 <p align="center">
-    <img width="1919" height="1080" alt="Screenshot10" src="https://github.com/user-attachments/assets/714b99a4-a1a4-4d9a-b06d-5e8aa50e91fe" />
+    <img width="1919" height="1080" alt="Screenshot10" src="https://github.com/user-attachments/assets/9cafea16-519a-410f-bc82-08eefc637824" />
 
 </p>
 
 <p align="center">
-    <img width="1920" height="1080" alt="Screenshotzarch5" src="https://github.com/user-attachments/assets/0fffd612-fe09-4311-a165-2a67e102ecda" />
-<img width="1920" height="1080" alt="Screenshotzarch7" src="https://github.com/user-attachments/assets/f65c5142-2fba-4f4e-8784-e88b33e7df9b" />
-<img width="1920" height="1080" alt="Screenshotzarch6" src="https://github.com/user-attachments/assets/af3d4050-911c-4798-bd07-fffbae3b44bb" />
-<img width="1920" height="1078" alt="Screenshotzarch1" src="https://github.com/user-attachments/assets/bc08e394-f099-4bba-be28-b12c4091f95e" />
-<img width="1916" height="1080" alt="Screenshotzarch2" src="https://github.com/user-attachments/assets/77857645-aa40-4644-9496-9b5e83c84216" />
-<img width="1920" height="1080" alt="Screenshotzarch3" src="https://github.com/user-attachments/assets/7c31fb35-b6e0-45b6-a436-b0a062540233" />
-<img width="1920" height="1080" alt="Screenshotzarch4" src="https://github.com/user-attachments/assets/a315da0e-fd13-4444-a36f-d716dde65962" />
-
+    <img width="1920" height="1078" alt="Screenshotzarch1" src="https://github.com/user-attachments/assets/973688b8-f3f7-4a69-860e-680443ed1e3c" />
+<img width="1916" height="1080" alt="Screenshotzarch2" src="https://github.com/user-attachments/assets/3240253c-b064-49ed-a6fa-015617a86be0" />
+<img width="1920" height="1080" alt="Screenshotzarch3" src="https://github.com/user-attachments/assets/c382bf19-bb3c-4a92-a629-26931139e6b0" />
+<img width="1920" height="1080" alt="Screenshotzarch4" src="https://github.com/user-attachments/assets/3332e848-1ee9-409e-b1e2-2f33d829ce4d" />
+<img width="1920" height="1080" alt="Screenshotzarch5" src="https://github.com/user-attachments/assets/1c661c4c-f86c-43d9-bea8-63dc9cf7b218" />
+<img width="1920" height="1080" alt="Screenshotzarch6" src="https://github.com/user-attachments/assets/63c91872-4b9d-413e-9e05-2deca531d6f3" />
+<img width="1920" height="1080" alt="Screenshotzarch7" src="https://github.com/user-attachments/assets/5f40c726-d87c-40f5-9242-b4fef0f806bc" />
 </p>
 
 ---
