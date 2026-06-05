@@ -11,8 +11,8 @@
 <p align="center">
   <a href="https://huggingface.co/datasets/zarchblack/zarchblack-releases/tree/main"><img src="https://img.shields.io/badge/Download_ISO-Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="Download ISO" /></a>
   <a href="https://github.com/ZarchBlack"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://github.com/ZarchBlack"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ZarchBlack"><img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://discord.gg/YgVtrsCx"><img src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://t.me/zarchblack"><img src="https://img.shields.io/badge/Telegram-Channel-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
 <p align="center">
@@ -250,13 +250,9 @@ https://huggingface.co/datasets/zarchblack/zarchblack-releases/tree/main
 Connect with us and other ZarchBlack users through our community channels:
 
 - **GitHub Discussions:** [Join the conversation](https://github.com/ZarchBlack)
-- **Discord Server:** [Discord Invite (Temporary)](https://github.com/ZarchBlack)
-- **Telegram Group:** [Telegram Channel (Temporary)](https://github.com/ZarchBlack)
-- **Official Documentation:** [Wiki & Guides (Temporary)](https://github.com/ZarchBlack)
-
----
-
-## 🤝 Contributing
+- **Discord Server:** [Discord Invite (Temporary)](https://discord.gg/YgVtrsCx)
+- **Telegram Group:** [Telegram Channel (Temporary)](https://t.me/zarchblack)
+- **Official Documentation:** [Wiki & Guides (Temporary)](https://github.com/ZarchBlackContributing
 
 We welcome developers, security researchers, designers, and writers to help improve ZarchBlack! 
 
