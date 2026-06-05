@@ -252,7 +252,7 @@ Connect with us and other ZarchBlack users through our community channels:
 - **GitHub Discussions:** [Join the conversation](https://github.com/ZarchBlack)
 - **Discord Server:** [Discord Invite (Temporary)](https://discord.gg/YgVtrsCx)
 - **Telegram Group:** [Telegram Channel (Temporary)](https://t.me/zarchblack)
-- **Official Documentation:** [Wiki & Guides (Temporary)](https://github.com/ZarchBlackContributing
+- **Official Documentation:** [Wiki & Guides (Temporary)](https://github.com/ZarchBlack/ZARCH) 
 
 We welcome developers, security researchers, designers, and writers to help improve ZarchBlack! 
 
