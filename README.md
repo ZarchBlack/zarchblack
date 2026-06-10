@@ -132,10 +132,22 @@ zarch-guard
 A powerful package management interface that simplifies installing software and configuring repositories.
 
 <p align="center">
-  <img width="100%" alt="ZPackageManager Screen 1" src="https://github.com/user-attachments/assets/7781b798-d107-4315-b33e-6c865acbafae" />
+  <img width="1920" height="1080" alt="Screenshot_20260610_033814" src="https://github.com/user-attachments/assets/22ccafea-2bae-4ae6-b157-4ae389ab22d6" />
 </p>
 <p align="center">
-  <img width="100%" alt="ZPackageManager Screen 2" src="https://github.com/user-attachments/assets/4b6114e9-4227-4450-a29e-a5f46a6956dc" />
+  <img width="1921" height="1080" alt="Screenshot_20260610_033856" src="https://github.com/user-attachments/assets/1e2f689d-9906-444a-ae59-36c031ba8fdf" />
+</p>
+<p align="center">
+  <img width="1920" height="1080" alt="Screenshot_20260610_033843" src="https://github.com/user-attachments/assets/67282176-899b-4265-97f3-1c077988328b" />
+</p>
+<p align="center">
+  <img width="1918" height="1080" alt="Screenshot_20260610_033929" src="https://github.com/user-attachments/assets/807ea23e-2c03-4085-9427-0e6b425a19af" />
+</p>
+<p align="center">
+  <img width="1920" height="1080" alt="Screenshot_20260610_033949" src="https://github.com/user-attachments/assets/1a869c82-5159-44fd-9af2-b578527aa564" />
+</p>
+<p align="center">
+  <img width="1918" height="1078" alt="Screenshot_20260610_034005" src="https://github.com/user-attachments/assets/29dc7f0d-a224-468e-aa3b-4ce2c168a44d" />
 </p>
 
 * **Flexible Install/Remove:** Smoothly search, install, and uninstall packages.
